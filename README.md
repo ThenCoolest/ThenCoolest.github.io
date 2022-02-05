@@ -1,2 +1,1 @@
-# coolest-wallpeaper
-the coolest
+#.
